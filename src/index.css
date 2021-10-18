@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "chula";
+  src: url("./resources/ChulaCharasNewReg.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#root {
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "chula";
+}
